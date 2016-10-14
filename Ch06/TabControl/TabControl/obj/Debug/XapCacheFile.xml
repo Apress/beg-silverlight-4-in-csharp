@@ -1,0 +1,5 @@
+﻿<xapCache source="D:\TestProjects\TabControl\TabControl\Bin\Debug\TabControl.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="5/30/2010 5:31:26 PM">
+  <file source="D:\TestProjects\TabControl\TabControl\obj\Debug\TabControl.dll" archivePath="TabControl.dll" lastWriteTime="5/30/2010 5:31:26 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="4/1/2010 12:46:10 AM" />
+  <file source="D:\TestProjects\TabControl\TabControl\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/30/2010 5:30:33 PM" />
+</xapCache>

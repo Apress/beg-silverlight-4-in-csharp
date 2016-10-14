@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch04\CheckBoxRadioButton\CheckBoxRadioButton.Web\bin\CheckBoxRadioButton.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch04\CheckBoxRadioButton\CheckBoxRadioButton.Web\bin\CheckBoxRadioButton.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch04\CheckBoxRadioButton\CheckBoxRadioButton.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch04\CheckBoxRadioButton\CheckBoxRadioButton.Web\obj\Debug\CheckBoxRadioButton.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch04\CheckBoxRadioButton\CheckBoxRadioButton.Web\obj\Debug\CheckBoxRadioButton.Web.pdb

@@ -1,0 +1,5 @@
+This is the content of the file.
+This is the content of the file.
+This is the content of the file.
+
+If this works the contents of this file will be displayed in the TextBlock of the Silverlight application.  

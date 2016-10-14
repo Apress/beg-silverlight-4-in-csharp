@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitStyles", "ImplicitStyles\ImplicitStyles.csproj", "{8DCA3DCD-B94D-4FCD-89BC-4A3B30B3D00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitStyles.Web", "ImplicitStyles.Web\ImplicitStyles.Web.csproj", "{47902E76-BA52-44E4-B1E6-9978C690EEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DCA3DCD-B94D-4FCD-89BC-4A3B30B3D00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCA3DCD-B94D-4FCD-89BC-4A3B30B3D00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCA3DCD-B94D-4FCD-89BC-4A3B30B3D00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCA3DCD-B94D-4FCD-89BC-4A3B30B3D00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47902E76-BA52-44E4-B1E6-9978C690EEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47902E76-BA52-44E4-B1E6-9978C690EEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47902E76-BA52-44E4-B1E6-9978C690EEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47902E76-BA52-44E4-B1E6-9978C690EEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

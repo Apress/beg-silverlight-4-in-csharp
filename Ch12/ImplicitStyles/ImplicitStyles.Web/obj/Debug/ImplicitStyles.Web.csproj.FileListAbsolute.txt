@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\ImplicitStyles\ImplicitStyles.Web\bin\ImplicitStyles.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\ImplicitStyles\ImplicitStyles.Web\bin\ImplicitStyles.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\ImplicitStyles\ImplicitStyles.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\ImplicitStyles\ImplicitStyles.Web\obj\Debug\ImplicitStyles.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\ImplicitStyles\ImplicitStyles.Web\obj\Debug\ImplicitStyles.Web.pdb

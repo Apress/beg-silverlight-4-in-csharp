@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\VSInlineStyling\VSInlineStyling.Web\bin\VSInlineStyling.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\VSInlineStyling\VSInlineStyling.Web\bin\VSInlineStyling.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\VSInlineStyling\VSInlineStyling.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\VSInlineStyling\VSInlineStyling.Web\obj\Debug\VSInlineStyling.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\VSInlineStyling\VSInlineStyling.Web\obj\Debug\VSInlineStyling.Web.pdb

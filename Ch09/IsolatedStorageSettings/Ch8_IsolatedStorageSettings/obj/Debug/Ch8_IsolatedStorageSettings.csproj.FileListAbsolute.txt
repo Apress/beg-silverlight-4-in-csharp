@@ -1,0 +1,24 @@
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\AppManifest.xaml
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\Ch8_IsolatedStorageSettings.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\Ch8_IsolatedStorageSettings.pdb
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\Ch8_IsolatedStorageSettings.xap
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\TestPage.html
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\App.g.cs
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\MainPage.g.cs
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\Ch8_IsolatedStorageSettings.g.resources
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\Ch8_IsolatedStorageSettings.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\Ch8_IsolatedStorageSettings.pdb
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\XapCacheFile.xml
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\Ch8_IsolatedStorageSettings.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\Ch8_IsolatedStorageSettings.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\AppManifest.xaml
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\Ch8_IsolatedStorageSettings.xap
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\Bin\Debug\TestPage.html
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\App.g.cs
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\MainPage.g.cs
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\Ch8_IsolatedStorageSettings.g.resources
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\Ch8_IsolatedStorageSettings.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\Ch8_IsolatedStorageSettings.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,14 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:nav="clr-namespace:System.Windows.Navigation;assembly=System.Windows.Controls.Navigation"
+             x:Class="NavAppFromScratch.App"
+             >
+    <Application.Resources>
+        <nav:UriMapper x:Key="uriMapper">
+            <nav:UriMapping Uri="View1" MappedUri="/View1.xaml" />
+            <nav:UriMapping Uri="View2" MappedUri="/View2.xaml" />
+            <nav:UriMapping Uri="InnerView/{c}" 
+                        MappedUri="/InnerView1.xaml?Color={c}" />
+        </nav:UriMapper>
+    </Application.Resources>
+</Application>

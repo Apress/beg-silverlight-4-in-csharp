@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxControl", "TextBoxControl\TextBoxControl.csproj", "{17517C44-C5CE-4A86-BF99-530A6F431B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxControl.Web", "TextBoxControl.Web\TextBoxControl.Web.csproj", "{1ADBA243-5236-432B-86E1-FD96FBB3E68A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17517C44-C5CE-4A86-BF99-530A6F431B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17517C44-C5CE-4A86-BF99-530A6F431B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17517C44-C5CE-4A86-BF99-530A6F431B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17517C44-C5CE-4A86-BF99-530A6F431B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADBA243-5236-432B-86E1-FD96FBB3E68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADBA243-5236-432B-86E1-FD96FBB3E68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADBA243-5236-432B-86E1-FD96FBB3E68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADBA243-5236-432B-86E1-FD96FBB3E68A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

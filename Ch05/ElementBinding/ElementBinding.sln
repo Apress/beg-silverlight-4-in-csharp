@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementBinding", "ElementBinding\ElementBinding.csproj", "{642F4837-2C16-44B1-AA10-DEABD69DFF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementBinding.Web", "ElementBinding.Web\ElementBinding.Web.csproj", "{92699246-6A07-4274-B3DE-6B29025E9E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{642F4837-2C16-44B1-AA10-DEABD69DFF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642F4837-2C16-44B1-AA10-DEABD69DFF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642F4837-2C16-44B1-AA10-DEABD69DFF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642F4837-2C16-44B1-AA10-DEABD69DFF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92699246-6A07-4274-B3DE-6B29025E9E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92699246-6A07-4274-B3DE-6B29025E9E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92699246-6A07-4274-B3DE-6B29025E9E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92699246-6A07-4274-B3DE-6B29025E9E01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

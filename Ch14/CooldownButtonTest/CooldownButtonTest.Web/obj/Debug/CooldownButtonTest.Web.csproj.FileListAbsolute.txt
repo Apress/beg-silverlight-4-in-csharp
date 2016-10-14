@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CooldownButtonTest.Web\bin\CooldownButtonTest.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CooldownButtonTest.Web\bin\CooldownButtonTest.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CooldownButtonTest.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CooldownButtonTest.Web\obj\Debug\CooldownButtonTest.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CooldownButtonTest.Web\obj\Debug\CooldownButtonTest.Web.pdb

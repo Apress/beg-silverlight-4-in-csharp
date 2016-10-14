@@ -1,0 +1,5 @@
+C:\Users\bob\Documents\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\CanvasPanel\CanvasPanel.Web\bin\CanvasPanel.Web.dll
+C:\Users\bob\Documents\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\CanvasPanel\CanvasPanel.Web\bin\CanvasPanel.Web.pdb
+C:\Users\bob\Documents\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\CanvasPanel\CanvasPanel.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bob\Documents\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\CanvasPanel\CanvasPanel.Web\obj\Debug\CanvasPanel.Web.dll
+C:\Users\bob\Documents\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\CanvasPanel\CanvasPanel.Web\obj\Debug\CanvasPanel.Web.pdb

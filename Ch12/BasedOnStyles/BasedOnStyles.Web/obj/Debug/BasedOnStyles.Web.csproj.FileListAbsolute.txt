@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\BasedOnStyles\BasedOnStyles.Web\bin\BasedOnStyles.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\BasedOnStyles\BasedOnStyles.Web\bin\BasedOnStyles.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\BasedOnStyles\BasedOnStyles.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\BasedOnStyles\BasedOnStyles.Web\obj\Debug\BasedOnStyles.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch12\BasedOnStyles\BasedOnStyles.Web\obj\Debug\BasedOnStyles.Web.pdb

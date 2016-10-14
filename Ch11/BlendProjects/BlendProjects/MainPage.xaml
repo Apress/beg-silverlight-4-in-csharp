@@ -1,0 +1,18 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="BlendProjects.MainPage"
+	Width="640" Height="480">
+	<UserControl.Resources>
+		<Storyboard x:Name="Storyboard1"/>
+	</UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel Margin="20" Orientation="Vertical">
+            <TextBlock x:Name="textBlock" Margin="5" Text="Enter Your Name:" />
+            <TextBox Margin="5" x:Name="txtName" />
+            <Button x:Name="button" Margin="5" Content="Click Me!" />
+        </StackPanel>
+    </Grid>
+
+</UserControl>

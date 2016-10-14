@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridPanel", "GridPanel\GridPanel.csproj", "{BE639862-19D2-4286-9D93-FD800D9073DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridPanel.Web", "GridPanel.Web\GridPanel.Web.csproj", "{CAC808EF-FAE6-4FF2-9B46-6BB421B71794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE639862-19D2-4286-9D93-FD800D9073DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE639862-19D2-4286-9D93-FD800D9073DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE639862-19D2-4286-9D93-FD800D9073DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE639862-19D2-4286-9D93-FD800D9073DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC808EF-FAE6-4FF2-9B46-6BB421B71794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC808EF-FAE6-4FF2-9B46-6BB421B71794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC808EF-FAE6-4FF2-9B46-6BB421B71794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC808EF-FAE6-4FF2-9B46-6BB421B71794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

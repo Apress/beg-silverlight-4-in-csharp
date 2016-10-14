@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "BorderControl\BorderControl.csproj", "{C3BCAC91-2837-46CB-9A5A-868F63A584CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl.Web", "BorderControl.Web\BorderControl.Web.csproj", "{AC041ED2-D2D9-41F9-A890-588DAFA709BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3BCAC91-2837-46CB-9A5A-868F63A584CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BCAC91-2837-46CB-9A5A-868F63A584CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BCAC91-2837-46CB-9A5A-868F63A584CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BCAC91-2837-46CB-9A5A-868F63A584CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC041ED2-D2D9-41F9-A890-588DAFA709BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC041ED2-D2D9-41F9-A890-588DAFA709BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC041ED2-D2D9-41F9-A890-588DAFA709BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC041ED2-D2D9-41F9-A890-588DAFA709BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\AppManifest.xaml
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\Ch8_ISExplorer.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\Ch8_ISExplorer.pdb
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\Ch8_ISExplorer.xap
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\TestPage.html
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\App.g.cs
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\MainPage.g.cs
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\Ch8_ISExplorer.g.resources
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\Ch8_ISExplorer.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\Ch8_ISExplorer.pdb
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\XapCacheFile.xml
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\System.Windows.Controls.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\System.Windows.Controls.xml
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\Ch8_ISExplorer.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\Ch8_ISExplorer.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\AppManifest.xaml
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\Ch8_ISExplorer.xap
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\TestPage.html
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\System.Windows.Controls.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\System.Windows.Controls.xml
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\App.g.cs
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\MainPage.g.cs
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\Ch8_ISExplorer.g.resources
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\Ch8_ISExplorer.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\Ch8_ISExplorer.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer\obj\Debug\XapCacheFile.xml

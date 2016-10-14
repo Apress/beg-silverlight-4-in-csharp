@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavTemplate", "NavTemplate\NavTemplate.csproj", "{04858CE9-A73D-4233-A5FB-CCB84F1D032B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavTemplate.Web", "NavTemplate.Web\NavTemplate.Web.csproj", "{1F1643AA-EE9E-414F-8A92-EA4A9442AC0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04858CE9-A73D-4233-A5FB-CCB84F1D032B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04858CE9-A73D-4233-A5FB-CCB84F1D032B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04858CE9-A73D-4233-A5FB-CCB84F1D032B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04858CE9-A73D-4233-A5FB-CCB84F1D032B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1643AA-EE9E-414F-8A92-EA4A9442AC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1643AA-EE9E-414F-8A92-EA4A9442AC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1643AA-EE9E-414F-8A92-EA4A9442AC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1643AA-EE9E-414F-8A92-EA4A9442AC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

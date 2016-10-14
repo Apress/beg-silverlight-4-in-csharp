@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CICSSpacingSite", "CICSSpacingSite\", "{c2306974-2b9f-43a7-994a-6e54f33d01e0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjOutputReferences = "{5131ae62-ef8f-4517-8fd6-05897d7ff56d}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICSSpacing", "CICSSpacing\CICSSpacing.csproj", "{5131ae62-ef8f-4517-8fd6-05897d7ff56d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2306974-2B9F-43A7-994A-6E54F33D01E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2306974-2B9F-43A7-994A-6E54F33D01E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2306974-2B9F-43A7-994A-6E54F33D01E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2306974-2B9F-43A7-994A-6E54F33D01E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5131AE62-EF8F-4517-8FD6-05897D7FF56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5131AE62-EF8F-4517-8FD6-05897D7FF56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5131AE62-EF8F-4517-8FD6-05897D7FF56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5131AE62-EF8F-4517-8FD6-05897D7FF56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

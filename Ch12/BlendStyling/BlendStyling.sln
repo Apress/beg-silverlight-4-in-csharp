@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BlendStylingSite", "BlendStylingSite\", "{4f265f73-50e4-4879-976a-14a4a345a35d}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjOutputReferences = "{063989f5-2ea3-4705-a808-134063d086f2}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlendStyling", "BlendStyling\BlendStyling.csproj", "{063989f5-2ea3-4705-a808-134063d086f2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F265F73-50E4-4879-976A-14A4A345A35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F265F73-50E4-4879-976A-14A4A345A35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F265F73-50E4-4879-976A-14A4A345A35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F265F73-50E4-4879-976A-14A4A345A35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063989F5-2EA3-4705-A808-134063D086F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063989F5-2EA3-4705-A808-134063D086F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063989F5-2EA3-4705-A808-134063D086F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063989F5-2EA3-4705-A808-134063D086F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

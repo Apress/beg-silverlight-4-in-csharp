@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleDataGrid\SimpleDataGrid.Web\bin\SimpleDataGrid.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleDataGrid\SimpleDataGrid.Web\bin\SimpleDataGrid.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleDataGrid\SimpleDataGrid.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleDataGrid\SimpleDataGrid.Web\obj\Debug\SimpleDataGrid.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleDataGrid\SimpleDataGrid.Web\obj\Debug\SimpleDataGrid.Web.pdb

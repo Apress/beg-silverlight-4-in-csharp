@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="CooldownButtonTest.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:bsl="clr-namespace:CoolDownButton;assembly=CoolDownButton"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <bsl:CoolDownButtonControl 
+            CoolDownSeconds="3"
+            Width="150" Height="60" />
+    </Grid>
+</UserControl>

@@ -1,0 +1,95 @@
+﻿<UserControl x:Class="GridPanel.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="400" d:DesignWidth="600">
+
+    <Grid ShowGridLines="True" x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="70" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="150" />
+        </Grid.ColumnDefinitions>
+
+        <Button Width="100" 
+                Height="30" 
+                Content="Top Left" 
+                Margin="5" 
+                Grid.Row="0" 
+                Grid.Column="0"></Button>
+        <Button Width="100" 
+                Height="30" 
+                Content="Top Right" 
+                Margin="5" 
+                Grid.Row="0" 
+                Grid.Column="2"></Button>
+        <Button Width="100" 
+                Height="30" 
+                Content="Bottom Left" 
+                Margin="5" 
+                Grid.Row="2" 
+                Grid.Column="0"></Button>
+        <Button Width="100" 
+                Height="30" 
+                Content="Bottom Right" 
+                Margin="5" 
+                Grid.Row="2" 
+                Grid.Column="2"></Button>
+
+    <Grid Grid.Column="1" Grid.Row="1"  ShowGridLines="True">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Button Width="100" 
+                Height="30" 
+                Content="Nested Top Left" 
+                Margin="5" 
+                Grid.Row="0" 
+                Grid.Column="0"></Button>
+        <Button Width="100" 
+                Height="30" 
+                Content="Nested Top Right" 
+                Margin="5" 
+                Grid.Row="0" 
+                Grid.Column="2"></Button>
+        <Button Width="100" 
+                Height="30" 
+                Content="Nested B. Left" 
+                Margin="5" 
+                Grid.Row="2"
+                Grid.Column="0"></Button>
+        <Button Width="100" 
+                Height="30" 
+                Content="Nested B. Right" 
+                Margin="5" Grid.Row="2" 
+                Grid.Column="2"></Button>
+            
+        <Button Width="100" 
+                Height="30" 
+                Content="Nested Center" 
+                Margin="5" 
+                Grid.Row="1" 
+                Grid.Column="0" 
+                Grid.ColumnSpan="2"></Button>
+    </Grid>
+
+
+    </Grid>
+</UserControl>

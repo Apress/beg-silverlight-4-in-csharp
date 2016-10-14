@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch8\NavTemplate\NavTemplate.Web\bin\NavTemplate.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch8\NavTemplate\NavTemplate.Web\bin\NavTemplate.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch8\NavTemplate\NavTemplate.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch8\NavTemplate\NavTemplate.Web\obj\Debug\NavTemplate.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch8\NavTemplate\NavTemplate.Web\obj\Debug\NavTemplate.Web.pdb

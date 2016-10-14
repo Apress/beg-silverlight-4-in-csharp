@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\WrapPanel\WrapPanel.Web\bin\WrapPanel.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\WrapPanel\WrapPanel.Web\bin\WrapPanel.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\WrapPanel\WrapPanel.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\WrapPanel\WrapPanel.Web\obj\Debug\WrapPanel.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch3\WrapPanel\WrapPanel.Web\obj\Debug\WrapPanel.Web.pdb

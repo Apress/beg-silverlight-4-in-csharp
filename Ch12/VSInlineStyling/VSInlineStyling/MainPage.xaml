@@ -1,0 +1,87 @@
+﻿<UserControl x:Class="VSInlineStyling.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Height="400" Width="600">
+
+    <Grid x:Name="LayoutRoot" Background="White" Margin="25">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="First Name"
+            FontFamily="Verdana"
+            FontSize="16"
+            FontWeight="Bold"
+            Margin="5" />
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Last Name"
+            FontFamily="Verdana"
+            FontSize="16"
+            FontWeight="Bold"
+            Margin="5" />
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Age"
+            FontFamily="Verdana"
+            FontSize="16"
+            FontWeight="Bold"
+            Margin="5" />
+
+
+        <TextBox Grid.Row="0" Grid.Column="1" 
+            VerticalAlignment="Top"
+            Height="24"
+            Margin="5"
+            FontSize="14"
+            FontFamily="Verdana"
+            Foreground="Blue"
+            Background="Wheat" />
+
+        <TextBox Grid.Row="1" Grid.Column="1" 
+            VerticalAlignment="Top"
+            Height="24"
+            Margin="5"
+            FontSize="14"
+            FontFamily="Verdana"
+            Foreground="Blue"
+            Background="Wheat" />
+
+        <TextBox Grid.Row="2" Grid.Column="1"  
+            VerticalAlignment="Top"
+            Height="24"
+            Margin="5"
+            FontSize="14"
+            FontFamily="Verdana"
+            Foreground="Blue"
+            Background="Wheat" />
+
+
+        <StackPanel Grid.Row="3" Grid.Column="2" Orientation="Horizontal">
+            <Button Content="Save" 
+                FontFamily="Verdana"
+                FontSize="11"
+                Width="75"
+                Margin="5" />
+
+            <Button Content="Next" 
+                FontFamily="Verdana"
+                FontSize="11"
+                Width="75"
+                Margin="5" />
+
+            <Button Content="Delete" 
+                FontFamily="Verdana"
+                FontSize="11"
+                Width="75"
+                Margin="5" />
+
+        </StackPanel>
+    </Grid>
+</UserControl>

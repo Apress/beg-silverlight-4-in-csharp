@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\ElevatedTrust\ElevatedTrust.Web\bin\ElevatedTrust.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\ElevatedTrust\ElevatedTrust.Web\bin\ElevatedTrust.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\ElevatedTrust\ElevatedTrust.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\ElevatedTrust\ElevatedTrust.Web\obj\Debug\ElevatedTrust.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\ElevatedTrust\ElevatedTrust.Web\obj\Debug\ElevatedTrust.Web.pdb

@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\SampleProjects\InvokeNotepad\InvokeNotepad.Web\bin\InvokeNotepad.Web.dll
+D:\My Dropbox\BSL4\SampleProjects\InvokeNotepad\InvokeNotepad.Web\bin\InvokeNotepad.Web.pdb
+D:\My Dropbox\BSL4\SampleProjects\InvokeNotepad\InvokeNotepad.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\SampleProjects\InvokeNotepad\InvokeNotepad.Web\obj\Debug\InvokeNotepad.Web.dll
+D:\My Dropbox\BSL4\SampleProjects\InvokeNotepad\InvokeNotepad.Web\obj\Debug\InvokeNotepad.Web.pdb

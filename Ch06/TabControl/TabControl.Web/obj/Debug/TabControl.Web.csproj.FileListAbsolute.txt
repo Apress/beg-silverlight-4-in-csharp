@@ -1,0 +1,5 @@
+D:\TestProjects\TabControl\TabControl.Web\bin\TabControl.Web.dll
+D:\TestProjects\TabControl\TabControl.Web\bin\TabControl.Web.pdb
+D:\TestProjects\TabControl\TabControl.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProjects\TabControl\TabControl.Web\obj\Debug\TabControl.Web.dll
+D:\TestProjects\TabControl\TabControl.Web\obj\Debug\TabControl.Web.pdb

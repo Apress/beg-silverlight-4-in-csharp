@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="BasicDataBinding.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Book Title"
+            VerticalAlignment="Center"
+            Margin="5" />
+        <TextBlock Text="ISBN-13"
+            VerticalAlignment="Center"
+            Margin="5"
+            Grid.Row="1" />
+
+        <TextBox Text="{Binding Title, Mode=TwoWay}" 
+            Height="24"
+            Margin="5"
+            Grid.Column="1" />
+        <TextBox Text="{Binding ISBN, Mode=TwoWay}" 
+            Height="24"
+            Margin="5"
+            Grid.Column="1" Grid.Row="1" />
+
+        <TextBlock Text="Book Title"
+            VerticalAlignment="Center"
+            Margin="5"
+            Grid.Row="2" />
+        <TextBlock Text="ISBN-13"
+            VerticalAlignment="Center"
+            Margin="5"
+            Grid.Row="3" />
+
+        <TextBox Text="{Binding Title, Mode=TwoWay}" 
+            Height="24"
+            Margin="5"
+            Grid.Column="1" Grid.Row="2" />
+        <TextBox Text="{Binding ISBN, Mode=TwoWay}" 
+            Height="24"
+            Margin="5"
+            Grid.Column="1" Grid.Row="3" />
+
+    </Grid>
+</UserControl>

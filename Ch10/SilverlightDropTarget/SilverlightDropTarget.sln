@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightDropTarget", "SilverlightDropTarget\SilverlightDropTarget.csproj", "{AB72EAB8-B480-450A-A54B-48E8FA472204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightDropTarget.Web", "SilverlightDropTarget.Web\SilverlightDropTarget.Web.csproj", "{A70BCF73-7782-47FA-9510-218E25BE133D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB72EAB8-B480-450A-A54B-48E8FA472204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB72EAB8-B480-450A-A54B-48E8FA472204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB72EAB8-B480-450A-A54B-48E8FA472204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB72EAB8-B480-450A-A54B-48E8FA472204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70BCF73-7782-47FA-9510-218E25BE133D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70BCF73-7782-47FA-9510-218E25BE133D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70BCF73-7782-47FA-9510-218E25BE133D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70BCF73-7782-47FA-9510-218E25BE133D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

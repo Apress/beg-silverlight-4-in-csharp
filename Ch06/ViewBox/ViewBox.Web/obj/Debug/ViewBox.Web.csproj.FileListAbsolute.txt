@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ViewBox\ViewBox.Web\bin\ViewBox.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ViewBox\ViewBox.Web\bin\ViewBox.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ViewBox\ViewBox.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ViewBox\ViewBox.Web\obj\Debug\ViewBox.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ViewBox\ViewBox.Web\obj\Debug\ViewBox.Web.pdb

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ch8_ISExplorer">
+</Property><Property Name="Solution File" Value="D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer.sln">
+</Property><Property Name="User Options File" Value="D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer.suo">
+</Property><Property Name="Date" Value="Tuesday, May 18, 2010">
+</Property><Property Name="Time" Value="22:02 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Ch8_ISExplorer.sln" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Ch8_ISExplorer.suo" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.suo">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\Ch8_ISExplorer.csproj" Description="Project file successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer\Ch8_ISExplorer.csproj">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\Ch8_ISExplorer.csproj.user" Description="Project user file successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer\Ch8_ISExplorer.csproj.user">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\App.xaml.cs" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\MainPage.xaml.cs" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer\MainPage.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\Properties\AppManifest.xml" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer\Properties\AppManifest.xml">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\App.xaml" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer\App.xaml">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\MainPage.xaml" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer\MainPage.xaml">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\Ch8_ISExplorer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\Ch8_ISExplorer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Ch8_ISExplorer.Web.csproj" Description="Project file successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Ch8_ISExplorer.Web.csproj">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Ch8_ISExplorer.Web.csproj.user" Description="Project user file successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Ch8_ISExplorer.Web.csproj.user">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Default.aspx.cs" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Default.aspx.designer.cs" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Ch8_ISExplorerTestPage.aspx" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Ch8_ISExplorerTestPage.aspx">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Ch8_ISExplorerTestPage.html" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Ch8_ISExplorerTestPage.html">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\ClientBin\Ch8_ISExplorer.xap" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\ClientBin\Ch8_ISExplorer.xap">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Default.aspx" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Default.aspx">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Silverlight.js" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Silverlight.js">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Web.config" Description="File successfully backed up as D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Backup\Ch8_ISExplorer.Web\Web.config">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Ch8_ISExplorer.Web.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Ch8_ISExplorer.Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ch8_ISExplorer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ch8_ISExplorer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer" Source="Ch8_ISExplorer\Ch8_ISExplorer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Ch8_ISExplorer.Web" Source="Ch8_ISExplorer.Web\Ch8_ISExplorer.Web.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleListBox\SimpleListBox.Web\bin\SimpleListBox.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleListBox\SimpleListBox.Web\bin\SimpleListBox.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleListBox\SimpleListBox.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleListBox\SimpleListBox.Web\obj\Debug\SimpleListBox.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch05\SimpleListBox\SimpleListBox.Web\obj\Debug\SimpleListBox.Web.pdb

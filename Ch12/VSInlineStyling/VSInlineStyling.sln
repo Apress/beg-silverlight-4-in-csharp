@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSInlineStyling", "VSInlineStyling\VSInlineStyling.csproj", "{BA215BDB-48F3-4343-B999-D86A2B37EFEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSInlineStyling.Web", "VSInlineStyling.Web\VSInlineStyling.Web.csproj", "{92A1C1B6-26BA-4984-8E66-492B205D7EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA215BDB-48F3-4343-B999-D86A2B37EFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA215BDB-48F3-4343-B999-D86A2B37EFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA215BDB-48F3-4343-B999-D86A2B37EFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA215BDB-48F3-4343-B999-D86A2B37EFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A1C1B6-26BA-4984-8E66-492B205D7EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A1C1B6-26BA-4984-8E66-492B205D7EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A1C1B6-26BA-4984-8E66-492B205D7EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A1C1B6-26BA-4984-8E66-492B205D7EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

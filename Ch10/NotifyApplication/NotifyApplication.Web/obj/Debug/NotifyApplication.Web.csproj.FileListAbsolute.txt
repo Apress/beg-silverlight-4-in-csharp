@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch10\NotifyApplication\NotifyApplication.Web\bin\NotifyApplication.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch10\NotifyApplication\NotifyApplication.Web\bin\NotifyApplication.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch10\NotifyApplication\NotifyApplication.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch10\NotifyApplication\NotifyApplication.Web\obj\Debug\NotifyApplication.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch10\NotifyApplication\NotifyApplication.Web\obj\Debug\NotifyApplication.Web.pdb

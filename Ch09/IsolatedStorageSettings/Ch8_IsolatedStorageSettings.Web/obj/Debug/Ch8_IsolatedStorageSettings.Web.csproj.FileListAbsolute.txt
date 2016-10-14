@@ -1,0 +1,10 @@
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\bin\Ch8_IsolatedStorageSettings.Web.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\bin\Ch8_IsolatedStorageSettings.Web.pdb
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\obj\Debug\Ch8_IsolatedStorageSettings.Web.dll
+D:\Projects\Beginning Silverlight 3\Ch8\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\obj\Debug\Ch8_IsolatedStorageSettings.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\bin\Ch8_IsolatedStorageSettings.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\bin\Ch8_IsolatedStorageSettings.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\obj\Debug\Ch8_IsolatedStorageSettings.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.Web\obj\Debug\Ch8_IsolatedStorageSettings.Web.pdb

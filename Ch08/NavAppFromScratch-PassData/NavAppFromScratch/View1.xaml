@@ -1,0 +1,28 @@
+﻿<navigation:Page x:Class="NavAppFromScratch.View1" 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           mc:Ignorable="d"
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+           d:DesignWidth="640" d:DesignHeight="480"
+           Title="View1 Page">
+    <Grid x:Name="LayoutRoot">
+        <StackPanel>
+            <TextBlock Text="View 1" 
+                   FontSize="60" 
+                   Foreground="Green"
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" />
+            <Button Click="Button_Click" 
+                Padding="10" 
+                Content="Navigate to Inner View" 
+                HorizontalAlignment="Center" />
+            <ComboBox Padding="10" Margin="10" x:Name="Color" Width="100">
+                <ComboBoxItem Content="Blue" IsSelected="True" />
+                <ComboBoxItem Content="Red" />
+                <ComboBoxItem Content="Green" />
+            </ComboBox>
+        </StackPanel>
+    </Grid>
+</navigation:Page>

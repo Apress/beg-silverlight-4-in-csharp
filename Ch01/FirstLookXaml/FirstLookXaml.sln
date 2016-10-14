@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FirstLookXamlSite", "FirstLookXamlSite\", "{096B414D-8AF9-4608-A32B-F5358B5DA6B5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/FirstLookXamlSite"
+		Debug.AspNetCompiler.PhysicalPath = "FirstLookXamlSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FirstLookXamlSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FirstLookXamlSite"
+		Release.AspNetCompiler.PhysicalPath = "FirstLookXamlSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FirstLookXamlSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "35317"
+		ProjOutputReferences = "{4f7f0ac5-4445-4fab-9fbe-7e1c9ecb42c2}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLookXaml", "FirstLookXaml\FirstLookXaml.csproj", "{4F7F0AC5-4445-4FAB-9FBE-7E1C9ECB42C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096B414D-8AF9-4608-A32B-F5358B5DA6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096B414D-8AF9-4608-A32B-F5358B5DA6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096B414D-8AF9-4608-A32B-F5358B5DA6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096B414D-8AF9-4608-A32B-F5358B5DA6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7F0AC5-4445-4FAB-9FBE-7E1C9ECB42C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7F0AC5-4445-4FAB-9FBE-7E1C9ECB42C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7F0AC5-4445-4FAB-9FBE-7E1C9ECB42C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7F0AC5-4445-4FAB-9FBE-7E1C9ECB42C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

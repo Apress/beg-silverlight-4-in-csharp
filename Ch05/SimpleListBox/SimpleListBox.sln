@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleListBox", "SimpleListBox\SimpleListBox.csproj", "{5E22A7F3-EF92-4F4D-B1BD-2A7091FBE095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleListBox.Web", "SimpleListBox.Web\SimpleListBox.Web.csproj", "{17D97251-945E-4ADD-A148-0A4974D0A4F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E22A7F3-EF92-4F4D-B1BD-2A7091FBE095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E22A7F3-EF92-4F4D-B1BD-2A7091FBE095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E22A7F3-EF92-4F4D-B1BD-2A7091FBE095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E22A7F3-EF92-4F4D-B1BD-2A7091FBE095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D97251-945E-4ADD-A148-0A4974D0A4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D97251-945E-4ADD-A148-0A4974D0A4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D97251-945E-4ADD-A148-0A4974D0A4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D97251-945E-4ADD-A148-0A4974D0A4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

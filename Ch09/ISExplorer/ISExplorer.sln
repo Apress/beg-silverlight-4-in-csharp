@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISExplorer", "ISExplorer\ISExplorer.csproj", "{5C4A1519-D24E-41D8-99AC-6D95B2F10627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISExplorer.Web", "ISExplorer.Web\ISExplorer.Web.csproj", "{C5339D9F-A883-490B-B91B-26FE7EBF4B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4A1519-D24E-41D8-99AC-6D95B2F10627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4A1519-D24E-41D8-99AC-6D95B2F10627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4A1519-D24E-41D8-99AC-6D95B2F10627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4A1519-D24E-41D8-99AC-6D95B2F10627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5339D9F-A883-490B-B91B-26FE7EBF4B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5339D9F-A883-490B-B91B-26FE7EBF4B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5339D9F-A883-490B-B91B-26FE7EBF4B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5339D9F-A883-490B-B91B-26FE7EBF4B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

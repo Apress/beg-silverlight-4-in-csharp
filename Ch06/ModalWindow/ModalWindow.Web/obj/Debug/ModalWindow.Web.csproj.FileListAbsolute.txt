@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ModalWindow\ModalWindow.Web\bin\ModalWindow.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ModalWindow\ModalWindow.Web\bin\ModalWindow.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ModalWindow\ModalWindow.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ModalWindow\ModalWindow.Web\obj\Debug\ModalWindow.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\ModalWindow\ModalWindow.Web\obj\Debug\ModalWindow.Web.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanel", "DockPanel\DockPanel.csproj", "{AC8D89EB-FE86-4BD0-89CF-0BD51EF3B7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanel.Web", "DockPanel.Web\DockPanel.Web.csproj", "{ACE7F88F-7E15-48DF-B0E8-02EA9DC252B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8D89EB-FE86-4BD0-89CF-0BD51EF3B7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8D89EB-FE86-4BD0-89CF-0BD51EF3B7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8D89EB-FE86-4BD0-89CF-0BD51EF3B7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8D89EB-FE86-4BD0-89CF-0BD51EF3B7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE7F88F-7E15-48DF-B0E8-02EA9DC252B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE7F88F-7E15-48DF-B0E8-02EA9DC252B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE7F88F-7E15-48DF-B0E8-02EA9DC252B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE7F88F-7E15-48DF-B0E8-02EA9DC252B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

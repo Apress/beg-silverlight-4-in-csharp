@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="TextBoxControl.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        
+        <StackPanel 
+            Orientation="Horizontal" 
+            HorizontalAlignment="Center">
+            
+            <TextBlock 
+                VerticalAlignment="Center" 
+                Text="Red:" />
+            <TextBox 
+                Name="txtRed"
+                Height="24" 
+                Width="50" 
+                Margin="5" />
+            <TextBlock 
+                VerticalAlignment="Center" 
+                Text="Green:" />
+            <TextBox 
+                Name="txtGreen"
+                Height="24" 
+                Width="50" 
+                Margin="5" />
+            <TextBlock 
+                VerticalAlignment="Center" 
+                Text="Blue:" />
+            <TextBox 
+                Name="txtBlue"
+                Height="24" 
+                Width="50" 
+                Margin="5" />
+        </StackPanel>
+
+        <Button 
+            Name="btnTry" 
+            Content="Try Color"
+            Grid.Row="1" 
+            Width="100" 
+            Height="24" />
+        <Ellipse 
+            Name="ellipse" 
+            Grid.Row="2"
+            Stroke="Black" 
+            StrokeThickness="5" 
+            Margin="20" />
+        <TextBlock 
+            Name="lblColor" 
+            Grid.Row="2"
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center"
+            FontSize="20" 
+            FontFamily="Arial" 
+            FontWeight="Bold"  />
+
+    </Grid>
+</UserControl>

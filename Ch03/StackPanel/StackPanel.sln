@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPanel", "StackPanel\StackPanel.csproj", "{88653840-9818-49A8-B83E-B866223DF15E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPanel.Web", "StackPanel.Web\StackPanel.Web.csproj", "{046C02D8-A631-4368-92EF-53A75B396A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88653840-9818-49A8-B83E-B866223DF15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88653840-9818-49A8-B83E-B866223DF15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88653840-9818-49A8-B83E-B866223DF15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88653840-9818-49A8-B83E-B866223DF15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046C02D8-A631-4368-92EF-53A75B396A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046C02D8-A631-4368-92EF-53A75B396A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046C02D8-A631-4368-92EF-53A75B396A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046C02D8-A631-4368-92EF-53A75B396A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

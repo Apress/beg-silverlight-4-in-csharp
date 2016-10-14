@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\OutOfBrowser\OutOfBrowser.Web\bin\OutOfBrowser.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\OutOfBrowser\OutOfBrowser.Web\bin\OutOfBrowser.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\OutOfBrowser\OutOfBrowser.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\OutOfBrowser\OutOfBrowser.Web\obj\Debug\OutOfBrowser.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\OutOfBrowser\OutOfBrowser.Web\obj\Debug\OutOfBrowser.Web.pdb

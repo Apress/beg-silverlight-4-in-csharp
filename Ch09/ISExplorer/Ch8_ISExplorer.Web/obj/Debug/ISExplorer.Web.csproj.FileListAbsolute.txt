@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer.Web\bin\Ch8_ISExplorer.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer.Web\bin\Ch8_ISExplorer.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer.Web\obj\Debug\Ch8_ISExplorer.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\Ch8_ISExplorer\Ch8_ISExplorer.Web\obj\Debug\Ch8_ISExplorer.Web.pdb

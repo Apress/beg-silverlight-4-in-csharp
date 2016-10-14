@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\AssemblyCaching\AssemblyCaching.Web\bin\AssemblyCaching.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\AssemblyCaching\AssemblyCaching.Web\bin\AssemblyCaching.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\AssemblyCaching\AssemblyCaching.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\AssemblyCaching\AssemblyCaching.Web\obj\Debug\AssemblyCaching.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch16\AssemblyCaching\AssemblyCaching.Web\obj\Debug\AssemblyCaching.Web.pdb

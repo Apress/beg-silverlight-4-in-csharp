@@ -1,0 +1,9 @@
+<OutOfBrowserSettings ShortName="Out of Browser Test Application" EnableGPUAcceleration="False" ShowInstallMenuItem="True">
+  <OutOfBrowserSettings.Blurb>OutOfBrowser Application on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+  <OutOfBrowserSettings.WindowSettings>
+    <WindowSettings Title="Out of Browser Test Application" />
+  </OutOfBrowserSettings.WindowSettings>
+  <OutOfBrowserSettings.Icons>
+    <Icon Size="128,128">BSL4.png</Icon>
+  </OutOfBrowserSettings.Icons>
+</OutOfBrowserSettings>

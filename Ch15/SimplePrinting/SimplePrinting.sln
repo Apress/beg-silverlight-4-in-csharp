@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePrinting", "SimplePrinting\SimplePrinting.csproj", "{F49412CD-0F26-4BEE-AA8F-FD1A39E333B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePrinting.Web", "SimplePrinting.Web\SimplePrinting.Web.csproj", "{82D87A7E-13B2-4A90-9E57-D66D8528F108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49412CD-0F26-4BEE-AA8F-FD1A39E333B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49412CD-0F26-4BEE-AA8F-FD1A39E333B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49412CD-0F26-4BEE-AA8F-FD1A39E333B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49412CD-0F26-4BEE-AA8F-FD1A39E333B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D87A7E-13B2-4A90-9E57-D66D8528F108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D87A7E-13B2-4A90-9E57-D66D8528F108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D87A7E-13B2-4A90-9E57-D66D8528F108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D87A7E-13B2-4A90-9E57-D66D8528F108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

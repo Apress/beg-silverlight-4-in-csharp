@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallHierarchy", "CallHierarchy\CallHierarchy.csproj", "{BE1D94F3-EDF2-4C36-A86C-AA422B75FDDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallHierarchy.Web", "CallHierarchy.Web\CallHierarchy.Web.csproj", "{16313796-47FE-4B22-AD2A-11D4F51FC661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE1D94F3-EDF2-4C36-A86C-AA422B75FDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1D94F3-EDF2-4C36-A86C-AA422B75FDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1D94F3-EDF2-4C36-A86C-AA422B75FDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1D94F3-EDF2-4C36-A86C-AA422B75FDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16313796-47FE-4B22-AD2A-11D4F51FC661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16313796-47FE-4B22-AD2A-11D4F51FC661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16313796-47FE-4B22-AD2A-11D4F51FC661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16313796-47FE-4B22-AD2A-11D4F51FC661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedStackPanel", "NestedStackPanel\NestedStackPanel.csproj", "{76581955-B063-469A-9FB9-FBD888F47ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedStackPanel.Web", "NestedStackPanel.Web\NestedStackPanel.Web.csproj", "{1D3FD0D2-3EC8-48C8-8A1A-CBD9B89C6FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76581955-B063-469A-9FB9-FBD888F47ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76581955-B063-469A-9FB9-FBD888F47ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76581955-B063-469A-9FB9-FBD888F47ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76581955-B063-469A-9FB9-FBD888F47ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3FD0D2-3EC8-48C8-8A1A-CBD9B89C6FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3FD0D2-3EC8-48C8-8A1A-CBD9B89C6FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3FD0D2-3EC8-48C8-8A1A-CBD9B89C6FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3FD0D2-3EC8-48C8-8A1A-CBD9B89C6FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

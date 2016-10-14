@@ -1,0 +1,15 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="FirstLookXaml.MainPage"
+	Width="640" Height="480">
+
+	<Canvas x:Name="LayoutRoot" Background="White">
+		<Rectangle Height="119" Canvas.Left="75" Stroke="Black" 
+                   Canvas.Top="92" Width="183"/>
+		<Ellipse Height="119" Canvas.Left="347" Stroke="Black" 
+                 Canvas.Top="92" Width="189"/>
+		<Button Content="XAML Rocks!" Height="43" Canvas.Left="233" 
+                Canvas.Top="285" Width="161"/>
+	</Canvas>
+</UserControl>

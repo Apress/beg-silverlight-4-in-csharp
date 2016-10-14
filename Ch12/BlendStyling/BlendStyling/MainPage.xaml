@@ -1,0 +1,31 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="BlendStyling.MainPage"
+	Width="640" Height="480">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<Grid.RowDefinitions>
+		    <RowDefinition Height="Auto"/>
+		    <RowDefinition Height="Auto" />
+		    <RowDefinition Height="Auto" />
+		    <RowDefinition Height="Auto" />
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+		    <ColumnDefinition Width="150" />
+		    <ColumnDefinition />
+		</Grid.ColumnDefinitions>
+		<TextBlock Text="First Name" FontFamily="Verdana" FontSize="21.333" FontWeight="Bold" Margin="5"/>
+		<TextBlock Text="Last Name" Grid.Row="1" FontFamily="Verdana" FontSize="21.333" FontWeight="Bold" Margin="5"/>
+		<TextBlock Text="Age" Grid.Row="2" FontFamily="Verdana" FontSize="21.333" FontWeight="Bold" Margin="5"/>
+		<TextBox Grid.Column="1" Margin="5" FontFamily="Verdana" FontSize="18.667" FontWeight="Bold" Foreground="#FF0008FF" Background="#FFF9F57D" VerticalAlignment="Top"/>
+		<TextBox Grid.Column="1" Grid.Row="1" Margin="5" FontFamily="Verdana" FontSize="18.667" FontWeight="Bold" Foreground="#FF0008FF" Background="#FFF9F57D" VerticalAlignment="Top"/>
+		<TextBox Grid.Row="2" Grid.Column="1" Margin="5" FontFamily="Verdana" FontSize="18.667" FontWeight="Bold" Foreground="#FF0008FF" Background="#FFF9F57D" VerticalAlignment="Top"/>
+		<StackPanel Grid.Column="1" Grid.Row="3" Orientation="Horizontal">
+			<Button Content="Save" Margin="5" FontSize="14.667" FontFamily="Verdana" Width="75"/>
+			<Button Content="Next" Margin="5" FontSize="14.667" FontFamily="Verdana" Width="75"/>
+			<Button Content="Delete" Margin="5" FontSize="14.667" FontFamily="Verdana" Width="75"/>
+		</StackPanel>
+	</Grid>
+	
+</UserControl>

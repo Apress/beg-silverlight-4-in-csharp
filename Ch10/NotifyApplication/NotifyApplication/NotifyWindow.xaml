@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="NotifyApplication.NotifyWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Height="75" Width="300">
+    
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Border 
+            Background="#DDDDDD"  
+            BorderBrush="Black" 
+            BorderThickness="2">
+            
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.113*"/>
+                    <RowDefinition Height="0.306*"/>
+                    <RowDefinition Height="0.582*"/>
+                </Grid.RowDefinitions>
+                
+                <Rectangle 
+                    Fill="#FF747474" 
+                    Stroke="White" 
+                    StrokeThickness="0" 
+                    Grid.ColumnSpan="2"/>
+                
+                <TextBlock 
+                    TextWrapping="Wrap" 
+                    Text="x" 
+                    HorizontalAlignment="Right" 
+                    Margin="0,0,5,0" 
+                    Grid.Row="1" 
+                    FontFamily="Verdana" 
+                    FontWeight="Bold" 
+                    FontSize="13"/>
+                
+                <TextBlock 
+                    Name="Header" 
+                    TextWrapping="Wrap" 
+                    Text="Header Text" 
+                    Grid.Row="1" 
+                    FontWeight="Bold" 
+                    VerticalAlignment="Bottom" 
+                    FontSize="13" 
+                    Margin="5,0,5,0"
+                    FontFamily="Tahoma"/>
+                
+                <TextBlock 
+                    Name="Description" 
+                    TextWrapping="Wrap" 
+                    Text="Notification Text" 
+                    Grid.Row="2" 
+                    FontSize="11" 
+                    FontFamily="Verdana" 
+                    Margin="5,0,5,0"/>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

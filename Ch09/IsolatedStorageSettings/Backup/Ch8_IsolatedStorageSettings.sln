@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch8_IsolatedStorageSettings", "Ch8_IsolatedStorageSettings\Ch8_IsolatedStorageSettings.csproj", "{153F763C-6957-4C69-B059-43E5B7E6D247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch8_IsolatedStorageSettings.Web", "Ch8_IsolatedStorageSettings.Web\Ch8_IsolatedStorageSettings.Web.csproj", "{D13ED06D-4039-4A6A-9214-ADE6C0FC9AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153F763C-6957-4C69-B059-43E5B7E6D247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153F763C-6957-4C69-B059-43E5B7E6D247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153F763C-6957-4C69-B059-43E5B7E6D247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153F763C-6957-4C69-B059-43E5B7E6D247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13ED06D-4039-4A6A-9214-ADE6C0FC9AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13ED06D-4039-4A6A-9214-ADE6C0FC9AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13ED06D-4039-4A6A-9214-ADE6C0FC9AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13ED06D-4039-4A6A-9214-ADE6C0FC9AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

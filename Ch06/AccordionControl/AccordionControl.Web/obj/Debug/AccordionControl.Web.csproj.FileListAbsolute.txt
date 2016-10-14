@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AccordionControl\AccordionControl.Web\bin\AccordionControl.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AccordionControl\AccordionControl.Web\bin\AccordionControl.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AccordionControl\AccordionControl.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AccordionControl\AccordionControl.Web\obj\Debug\AccordionControl.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AccordionControl\AccordionControl.Web\obj\Debug\AccordionControl.Web.pdb

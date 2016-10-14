@@ -1,0 +1,14 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="NotifyApplication" EntryPointType="NotifyApplication.App" RuntimeVersion="4.0.50401.0">
+  <Deployment.OutOfBrowserSettings>
+    <OutOfBrowserSettings ShortName="NotifyApplication Application" EnableGPUAcceleration="False" ShowInstallMenuItem="True">
+      <OutOfBrowserSettings.Blurb>NotifyApplication Application on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+      <OutOfBrowserSettings.WindowSettings>
+        <WindowSettings Title="NotifyApplication Application" />
+      </OutOfBrowserSettings.WindowSettings>
+      <OutOfBrowserSettings.Icons />
+    </OutOfBrowserSettings>
+  </Deployment.OutOfBrowserSettings>
+  <Deployment.Parts>
+    <AssemblyPart x:Name="NotifyApplication" Source="NotifyApplication.dll" />
+  </Deployment.Parts>
+</Deployment>

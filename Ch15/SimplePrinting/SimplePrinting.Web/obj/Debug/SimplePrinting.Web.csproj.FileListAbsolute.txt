@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch15\SimplePrinting\SimplePrinting.Web\bin\SimplePrinting.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch15\SimplePrinting\SimplePrinting.Web\bin\SimplePrinting.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch15\SimplePrinting\SimplePrinting.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch15\SimplePrinting\SimplePrinting.Web\obj\Debug\SimplePrinting.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch15\SimplePrinting\SimplePrinting.Web\obj\Debug\SimplePrinting.Web.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxCustom", "ListBoxCustom\ListBoxCustom.csproj", "{F2712192-7FF3-4CAC-899B-53018C390539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxCustom.Web", "ListBoxCustom.Web\ListBoxCustom.Web.csproj", "{D2519DA8-5AFE-4F55-ACCD-4E020F8FA204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2712192-7FF3-4CAC-899B-53018C390539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2712192-7FF3-4CAC-899B-53018C390539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2712192-7FF3-4CAC-899B-53018C390539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2712192-7FF3-4CAC-899B-53018C390539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2519DA8-5AFE-4F55-ACCD-4E020F8FA204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2519DA8-5AFE-4F55-ACCD-4E020F8FA204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2519DA8-5AFE-4F55-ACCD-4E020F8FA204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2519DA8-5AFE-4F55-ACCD-4E020F8FA204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

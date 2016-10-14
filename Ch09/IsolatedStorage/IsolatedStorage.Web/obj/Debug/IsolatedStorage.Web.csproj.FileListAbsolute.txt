@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\IsolatedStorage\IsolatedStorage.Web\bin\IsolatedStorage.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\IsolatedStorage\IsolatedStorage.Web\bin\IsolatedStorage.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\IsolatedStorage\IsolatedStorage.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\IsolatedStorage\IsolatedStorage.Web\obj\Debug\IsolatedStorage.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch09\IsolatedStorage\IsolatedStorage.Web\obj\Debug\IsolatedStorage.Web.pdb

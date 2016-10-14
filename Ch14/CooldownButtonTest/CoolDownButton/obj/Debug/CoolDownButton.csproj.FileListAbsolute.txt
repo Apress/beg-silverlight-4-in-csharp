@@ -1,0 +1,6 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CoolDownButton\Bin\Debug\CoolDownButton.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CoolDownButton\Bin\Debug\CoolDownButton.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CoolDownButton\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CoolDownButton\obj\Debug\CoolDownButton.g.resources
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CoolDownButton\obj\Debug\CoolDownButton.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch14\CooldownButtonTest\CoolDownButton\obj\Debug\CoolDownButton.pdb

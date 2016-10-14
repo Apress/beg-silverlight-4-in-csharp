@@ -1,0 +1,5 @@
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AutoCompleteBox\AutoCompleteBox.Web\bin\AutoCompleteBox.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AutoCompleteBox\AutoCompleteBox.Web\bin\AutoCompleteBox.Web.pdb
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AutoCompleteBox\AutoCompleteBox.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AutoCompleteBox\AutoCompleteBox.Web\obj\Debug\AutoCompleteBox.Web.dll
+D:\My Dropbox\BSL4\Beginning Silverlight 4\Ch06\AutoCompleteBox\AutoCompleteBox.Web\obj\Debug\AutoCompleteBox.Web.pdb
